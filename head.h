@@ -5,6 +5,6 @@
 #include <string.h>
 #include <errno.h>
 
-#include <fnctl.h>
+#include <fcntl.h>
 #include <sys/stat.h>
 #include <unistd.h>
