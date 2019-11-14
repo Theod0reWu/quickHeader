@@ -8,6 +8,6 @@
 #include <fcntl.h>
 #include <sys/stat.h>
 #include <unistd.h>
-#include <opendir.h>
+#include <dirent.h>
 
 #include <math.h>
