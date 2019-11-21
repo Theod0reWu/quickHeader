@@ -11,3 +11,5 @@
 #include <dirent.h>
 
 #include <math.h>
+
+#include <signal.h>
